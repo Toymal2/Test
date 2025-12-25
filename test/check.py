@@ -3,4 +3,6 @@ b = a
 a += [4,5]
 print(b)
 print (a)
+a.append(33)
+print(a)
 # hello 
